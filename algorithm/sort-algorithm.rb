@@ -1,4 +1,4 @@
-default_list = [17,34,2,4,6,11,7,3,22]
+default_list = [10, 8, 3, 5, 2, 4, 11, 18, 20, 33]
  
 #バブルソート
 (0..default_list.length-1).each do |i| 
