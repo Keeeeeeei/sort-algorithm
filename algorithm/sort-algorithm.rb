@@ -1,3 +1,4 @@
+
 default_list = [10, 8, 3, 5, 2, 4, 11, 18, 20, 33]
  
 (0..default_list.length-1).each do |i| 
@@ -10,3 +11,4 @@ default_list = [10, 8, 3, 5, 2, 4, 11, 18, 20, 33]
   end
 end
 puts "#{default_list}"
+
